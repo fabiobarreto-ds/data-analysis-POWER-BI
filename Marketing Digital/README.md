@@ -1,2 +1,7 @@
-Aqui você irá encontrar todos os meus projetos de análise de Dados, a forma com estruturo, como enxergo os dados e como transformo em informação viável e sólida.
-Formato Power BI e PDF
+Uma empresa de Marketing Digital precisa atingir uma meta ambiciosa no próximo mês
+e precisa identificar os melhores planos de ação para alcançá-la. Para isso, ela decidiu
+criar um dashboard no Power BI que permita acompanhar os principais indicadores de
+desempenho. Com esses dados, a equipe poderá avaliar o desempenho de cada
+campanha, identificar oportunidades de otimização e escolher os melhores planos de
+ação para alcançar a meta do quarter. O dashboard será uma ferramenta essencial
+para a tomada de decisão mais informada e estratégica.
