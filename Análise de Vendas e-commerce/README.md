@@ -1,2 +1,4 @@
-Aqui você irá encontrar todos os meus projetos de análise de Dados, a forma com estruturo, como enxergo os dados e como transformo em informação viável e sólida.
-Formato Power BI e PDF
+Usando os conhecimentos de Excel e de Power BI, construí um painel gerencial que almeja estudar as suas vendas e assim, traçar a melhor estratégia para
+alavancar seus resultados com um modelo de regressão linear capaz de
+prever os resultados de faturamento.
+Observação: O Gráfico "Vendas de Categoria por Dia" é uma animação, motivo pelo qual não aparece no PDF.
