@@ -1,2 +1,1 @@
-Aqui você irá encontrar todos os meus projetos de análise de Dados, a forma com estruturo, como enxergo os dados e como transformo em informação viável e sólida.
-Formato Power BI e PDF
+Análise para o setor de marketing de uma empresa que utiliza o e-commerce para venda dos seus produtos.
