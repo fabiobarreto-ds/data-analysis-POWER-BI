@@ -1,2 +1,1 @@
-Aqui você irá encontrar todos os meus projetos de análise de Dados, a forma com estruturo, como enxergo os dados e como transformo em informação viável e sólida.
-Formato Power BI e PDF
+Análise de imóveis vendidos na cidade de Melbourne no período de janeiro de 2016 a outubro de 2018. Analisando as variáveis e descobrindo onde o valor de venda varia de acordo com a data, distância do centro, categoria e zona da cidade.
