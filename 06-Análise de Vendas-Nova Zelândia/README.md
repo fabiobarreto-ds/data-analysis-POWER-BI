@@ -1,1 +1,2 @@
+Painel gerencial de um e-commerce.
 Análise de faturamento de um e-commerce de uma empresa da Nova Zelândia. Fiz uma previsão com regressão linear, analisei os produtos mais vendidos, faturamentos por canal e cidades e média de lucro dos produtos por unidade.
