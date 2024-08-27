@@ -1,8 +1,5 @@
-Usando os conhecimentos de Excel e de Power BI, construí um painel gerencial que almeja estudar as suas vendas e assim, traçar a melhor estratégia para
-alavancar seus resultados com um modelo de regressão linear capaz de
-prever os resultados de faturamento.
-Observação: O Gráfico "Vendas de Categoria por Dia" é uma animação, motivo pelo qual não aparece no PDF.
-
+Usando os conhecimentos de Excel e de Power BI, construí um painel gerencial com Insights, que almeja estudar as suas vendas e assim, traçar a melhor estratégia para
+alavancar seus resultados com um modelo de regressão linear capaz de prever os resultados de faturamento.
 
     1. Gráfico de linha da receita diária no período dado;
     2. Tabela matriz da receita total e subtotal dos departamentos de vendas da empresa e tipo de bandeira utilizada nos cartões de crédito X categoria utilizada para acessar o site(Internet, mobile, aplicativo ou mobil);
